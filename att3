@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title></title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    
+    <header class="cabeçalho">
+        <div class="logo">
+            <img src="" alt="">
+        </div> 
 
+        <div class="menu">
+
+            <ul class="lista">
+               
+
+
+        </div>
+    </header>
+    <!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title></title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    
+    <header class="cabeçalho">
+        <div class="logo">
+            <img src="" alt="">
+        </div> 
+
+        <div class="menu">
+
+            <ul class="lista">
+                <li><b>amanda</b></li>
+                <li><u>amanda linda</u></li>
+                <li><i>Amanda chuchuzinho</i></li>
+                <li><sup>Amanda.</sup></li>
+            </ul>
+
+
+        </div>
+    </header>
+
+
+</body>
+</html>
+
+
+     
+</body>
+</html>
